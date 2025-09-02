@@ -70,7 +70,11 @@ This Project shows steps taken to troubleshoot a device with DHCP issues and inc
 The troubleshooting efforts successfully resolved the camera orientation issue. Further assistance is required to address the parcel room tablet's offline status.
 
 
-<img src="https://imgur.com/a/q6EqfOD.jpeg"
+![Image](https://github.com/user-attachments/assets/c008bf59-e617-4eb0-aa9b-efde420c0ead)
+![Image](https://github.com/user-attachments/assets/93882309-c8b6-4705-bc71-d609ef59365c)
+![Image](https://github.com/user-attachments/assets/67118f23-87de-4e22-a814-9b40a1a93a13)
+![Image](https://github.com/user-attachments/assets/d15f49bf-ff3f-43b7-9aa7-5b698372955a)
+![Image](https://github.com/user-attachments/assets/96f795e0-a549-4417-a907-2aed69906536)
 <br />
 <br />
 Confirm your selection:  <br/>
