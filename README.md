@@ -70,28 +70,13 @@ This Project shows steps taken to troubleshoot a device with DHCP issues and inc
 The troubleshooting efforts successfully resolved the camera orientation issue. Further assistance is required to address the parcel room tablet's offline status.
 
 
-![Image](https://github.com/user-attachments/assets/c008bf59-e617-4eb0-aa9b-efde420c0ead)
-![Image](https://github.com/user-attachments/assets/93882309-c8b6-4705-bc71-d609ef59365c)
-![Image](https://github.com/user-attachments/assets/67118f23-87de-4e22-a814-9b40a1a93a13)
-![Image](https://github.com/user-attachments/assets/d15f49bf-ff3f-43b7-9aa7-5b698372955a)
-![Image](https://github.com/user-attachments/assets/96f795e0-a549-4417-a907-2aed69906536)
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/user-attachments/assets/c008bf59-e617-4eb0-aa9b-efde420c0ead" alt="Image 1" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/93882309-c8b6-4705-bc71-d609ef59365c" alt="Image 2" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/67118f23-87de-4e22-a814-9b40a1a93a13" alt="Image 3" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/d15f49bf-ff3f-43b7-9aa7-5b698372955a" alt="Image 4" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/96f795e0-a549-4417-a907-2aed69906536" alt="Image 5" width="500" height="500">
+
+
 
 <!--
  ```diff
